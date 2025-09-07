@@ -1,16 +1,31 @@
-## Hi there 👋
+# Maxence Opigez
+### Software Engineer | Lille, France
 
-<!--
-**oupioi/oupioi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À la recherche de nouvelles opportunités 
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/maxeopigez/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/oupioi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU+Bash)
+
+### Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=GitHubActions)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js%20(en%20apprentissage)-000?&logo=Next.js)
+![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20Mon%20Site%20(En%20cours)-000)]
+
